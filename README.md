@@ -1,5 +1,5 @@
-🛍️ Next Shop – E-commerce Web Application
-Next Shop is a modern and responsive e-commerce application built using React, HTML, CSS, and JavaScript. This application simulates a real-world online shopping experience with a clean user interface and essential features like product listings, shopping cart functionality, and more.
+🛍️ NXT Trends – E-commerce Web Application
+NXT Trends is a modern and responsive e-commerce application built using React, HTML, CSS, and JavaScript. This application simulates a real-world online shopping experience with a clean user interface and essential features like product listings, shopping cart functionality, and more.
 
 🔧 Technologies Used
 React.js – for building dynamic and interactive UI
